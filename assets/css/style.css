@@ -236,7 +236,7 @@ button.btn.btn-info {
     position: relative;
     /* margin-top: 46px; */
     padding-top: 40%;
-    background: url('/project/project/assets/images/img-slider.png') top center / cover no-repeat;
+    background: url('assets/images/img-slider.png') top center / cover no-repeat;
 }
 .slider .text-slider{
     position: absolute;
@@ -354,7 +354,7 @@ a.shop-now {
     left: 0px;
 }
 .sale-main .img-deal1{
-    background: url(/project/project/assets/images/deal1.png);
+    background: url(assets/images/deal1.png);
     width: 653px;
     height: 510px;
     position: relative;
@@ -433,7 +433,7 @@ a.shop-now {
     right: 0px;
 }
 .sale-extra .img-deal2{
-    background: url(/project/project/assets/images/deal2.png);
+    background: url(assets/images/deal2.png);
     width: 457px;
     height: 240px;
     position: relative;
@@ -462,7 +462,7 @@ a.shop-now {
 }
 
 .sale-extra .img-deal3{
-    background: url(/project/project/assets/images/deal3.png);
+    background: url(assets/images/deal3.png);
     width: 457px;
     height: 240px;
     margin-top: 30px;
@@ -593,7 +593,7 @@ a.shop-now {
 /* ---------------------------- */
 /* Begin Latest new */
 .new{
-    background: url(/project/project/assets/fonts/BG-latest-new.png);
+    background: url(assets/fonts/BG-latest-new.png);
     height: 655px;
 }
 .new .latest-title{
