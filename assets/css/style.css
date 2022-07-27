@@ -433,7 +433,7 @@ a.shop-now {
     right: 0px;
 }
 .sale-extra .img-deal2{
-    background: url('assets/images/deal2.png');
+    background: url('../images/deal2.png');
     width: 457px;
     height: 240px;
     position: relative;
